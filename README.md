@@ -3,10 +3,10 @@
 To run this example in the session, you will need the following password:
 
 ```
-notthispassword
+talmoworkshop
 ```
 
-Armed with this password, go to this link <https://demo.uobhub.org/user/matthew-brett/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatthew-brett%2Ftalmo&subPath=talmo.ipynb>.
+Armed with this password, go to this link <https://hub.dynevor.org/user/matthew-brett/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatthew-brett%2Ftalmo&subPath=talmo.ipynb>.
 
 You will see a browser window like this:
 
