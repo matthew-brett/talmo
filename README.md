@@ -34,6 +34,12 @@ for some idea of what debugging looks like for this kind of system.
 
 You can also set a system up on a fairly significant single server machine using [these steps](https://tljh.jupyter.org); this can be a cloud machine or a beefy machine on your desktop.  These setups won't scale very well to more than 100 students.
 
+If you're interested in setting up a system like this, I am happy to help, if
+only to act as a [rubber duck debugging
+tool](https://rubberduckdebugging.com). The [JupyterHub discourse
+fora](https://discourse.jupyter.org) will put you in touch with the real
+experts.
+
 ## Instructions during the workshop
 
 **These instructions will not work, because I have since shut down the server
