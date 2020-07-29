@@ -79,7 +79,9 @@ You clicked Launch Server when you got that option:
 
 ![](images/uobhub_server.png)
 
+<!---
 ## Another option
 
 [![Gitpod
 Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/matthew-brett/talmo/blob/master/talmo.ipynb)
+-->
