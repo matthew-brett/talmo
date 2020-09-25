@@ -47,10 +47,11 @@ beefy machine on your desktop.  These setups won't scale very well to more than
 to be more expensive, because you need a machine with lots of CPU and memory up
 and running all the time.
 
-If you're interested in setting up a system like this, I am happy to help, if
-only to act as a [rubber duck debugging tool](https://rubberduckdebugging.com).
-The [JupyterHub discourse fora](https://discourse.jupyter.org) will put you in
-touch with the real experts.
+If you're interested in setting up a system like the cluster or single server
+option, I am happy to help, if only to act as a [rubber duck debugging
+tool](https://rubberduckdebugging.com). The [JupyterHub discourse
+fora](https://discourse.jupyter.org) will put you in touch with the real
+experts.
 
 ## Instructions during the workshop
 
@@ -65,7 +66,7 @@ talmoworkshop
 ```
 
 Armed with this password, you would have gone to this link
-<https://hub.dynevor.org/user/matthew-brett/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatthew-brett%2Ftalmo&subPath=talmo.ipynb>.
+<https://hub.dynevor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatthew-brett%2Ftalmo&subPath=talmo.ipynb>.
 
 You might have seen a browser window like this:
 
